@@ -1,0 +1,20 @@
+.todo-list-add {
+    margin-top: 30px;
+}
+
+.todo-list-add .new-todo-label {
+    width: 83%;
+    margin-right: 3px;
+}
+
+.todo-list-add .new-todo-color {
+    width: 15%;
+    margin-right: 3px;
+}
+
+.todo-list-add .new-todo-des {
+    width: 100%;
+    resize: none;
+    margin-bottom: 15px;
+    min-height: 200px;
+}
